@@ -7,3 +7,4 @@ Solvers
 - Gaussian Elimination - [Read more here](https://en.wikipedia.org/wiki/Gaussian_elimination)
 - Power Method - [Read more here](https://en.wikipedia.org/wiki/Power_iteration)
 - LU Decomposition - [Read more here](https://en.wikipedia.org/wiki/LU_decomposition)
+- Jacobi Method - [Read more here](https://en.wikipedia.org/wiki/Jacobi_method)

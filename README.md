@@ -8,3 +8,4 @@ Solvers
 - Power Method - [Read more here](https://en.wikipedia.org/wiki/Power_iteration)
 - LU Decomposition - [Read more here](https://en.wikipedia.org/wiki/LU_decomposition)
 - Jacobi Method - [Read more here](https://en.wikipedia.org/wiki/Jacobi_method)
+- Successive Over-Relaxation (SOR) - [Read more here](https://en.wikipedia.org/wiki/Successive_over-relaxation)

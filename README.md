@@ -2,5 +2,5 @@ This repository contains a collection of solvers. Each solver comes with a sampl
 
 Solvers
 ==================================================================
-- Gaussian Elimination - ![Read more here](https://en.wikipedia.org/wiki/Gaussian_elimination)
-- Power Method - ![Read more here](https://en.wikipedia.org/wiki/Power_iteration)
+- Gaussian Elimination - [Read more here](https://en.wikipedia.org/wiki/Gaussian_elimination)
+- Power Method - [Read more here](https://en.wikipedia.org/wiki/Power_iteration)

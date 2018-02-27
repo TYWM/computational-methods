@@ -5,7 +5,8 @@ Each solver reads from a "data.txt" file when run, and outputs to the console an
 Solvers
 ==================================================================
 - Gaussian Elimination - [Read more here](https://en.wikipedia.org/wiki/Gaussian_elimination)
-- Power Method - [Read more here](https://en.wikipedia.org/wiki/Power_iteration)
 - LU Decomposition - [Read more here](https://en.wikipedia.org/wiki/LU_decomposition)
-- Jacobi Method - [Read more here](https://en.wikipedia.org/wiki/Jacobi_method)
+- Gauss-Seidel Method - [Read more here](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method)
 - Successive Over-Relaxation (SOR) - [Read more here](https://en.wikipedia.org/wiki/Successive_over-relaxation)
+- Jacobi Method - [Read more here](https://en.wikipedia.org/wiki/Jacobi_method)
+- Power Method - [Read more here](https://en.wikipedia.org/wiki/Power_iteration)

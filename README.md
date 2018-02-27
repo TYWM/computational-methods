@@ -1,6 +1,6 @@
 This repository contains a collection of solvers. Each solver comes with a sample data set, along with the output that would be generated for that data set in the form of a .txt file, a .xlsx spreadsheet, and a .png of the 3D graphed result.
 
-Each solver reads from a "data.txt" file when ru, and outputs to the console and to a "output.txt" file.
+Each solver reads from a "data.txt" file when run, and outputs to the console and to a "output.txt" file.
 
 The first line of the "data.txt" input file consists of a number "a", which is the size of a matrix a x a. The second line contains the values of the matrix in order, all seperated by spaces.
 
